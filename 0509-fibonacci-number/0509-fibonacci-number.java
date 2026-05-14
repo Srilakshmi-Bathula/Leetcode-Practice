@@ -3,6 +3,8 @@ class Solution {
 
       if(n <= 1) return n;
 
-      return fib(n - 1) + fib(n - 2);  
+      int last = fib(n - 1);
+      int slast = fib(n - 2);
+      return last + slast;  
     }
 }
