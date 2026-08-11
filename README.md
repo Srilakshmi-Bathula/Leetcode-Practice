@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1672-richest-customer-wealth) |
 | [2784-check-if-array-is-good](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
