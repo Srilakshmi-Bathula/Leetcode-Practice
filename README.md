@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2784-check-if-array-is-good](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
