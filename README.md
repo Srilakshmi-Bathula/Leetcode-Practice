@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1672-richest-customer-wealth) |
 | [2784-check-if-array-is-good](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
@@ -54,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
