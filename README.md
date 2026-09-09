@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/1095-find-in-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Srilakshmi-Bathula/Leetcode-Practice/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
